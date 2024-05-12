@@ -1,6 +1,6 @@
 👋 Hi, I’m @cqueiro2 (Cesario)
 - 👀 Projeto IA Alura
-- 🌱 Aprendo com Imesão Alura
+- 🌱 Aprendo com Imersão Alura
 -💞️ Procuro colaborar na programação e trazer conhecimento
 -📫Como entrar em contato comigo ...por e-mail (cqueiro2@hotmail.com)
 
