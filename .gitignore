@@ -1,0 +1,14 @@
+# Ignorar todos os arquivos de log
+*.log
+
+# Ignorar pastas de build (compilação)
+build/
+
+# Ignorar arquivos temporários que começam com "temp-"
+temp-*
+
+# Ignorar configurações de IDE (como VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+.venv/
+.env/
